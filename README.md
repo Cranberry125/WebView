@@ -57,6 +57,7 @@ activity_main.xml
 </LinearLayout>
 ```
 运行截图：
-![35F2A2CBDC1004A433C0B6DD55F73B7E.jpg](https://i.loli.net/2019/04/18/5cb899f39c613.jpg)
+
+![E32C9C32116867AA5FF442A401FC5555.jpg](https://i.loli.net/2019/04/18/5cb89b87d1f33.jpg)
 
 
